@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/iriza7/Wepack-2.0-from-scratch/issues"
   },
-  "homepage": "https://github.com/iriza7/Wepack-2.0-from-scratch#readme"
+  "homepage": "https://github.com/iriza7/Wepack-2.0-from-scratch#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+   
+  }
 }
