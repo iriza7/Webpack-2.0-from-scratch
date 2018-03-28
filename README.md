@@ -1,4 +1,4 @@
-# Wepack-2.0-from-scratch
+# Webpack-2.0-from-scratch
 
 1-Install nodejs
 
